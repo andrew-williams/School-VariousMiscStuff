@@ -1,0 +1,20 @@
+using UnityEngine;
+using System.Collections;
+
+public class BulletSpawn : MonoBehaviour {
+	public Transform bulletPrefab;
+	public Transform flashPrefab;
+	float shootForce = 1000.0f;
+
+	void Update () {
+		if ( Input.GetButtonDown("Fire1") ) {
+			Transform instanceBullet;
+			Transform instanceFlash;
+			instanceBullet = Instantiate( bulletPrefab, transform.position, Quaternion.identity ) as Transform;
+			instanceBullet.rigidbody.AddForce( transform.forward * shootForce );
+			instanceFlash = Instantiate( flashPrefab, transform.position - (Vector3.forward*0.2f), Quaternion.identity ) as Transform;
+			instanceFlash.transform.parent = transform;
+			
+		}
+	}
+}

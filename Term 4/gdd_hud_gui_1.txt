@@ -1,0 +1,13 @@
+GDD HUD AND GUI DESIGN
+Discussed about the GUI and HUD design over the past few days with Leon, Ryu, Christian,
+Jacky and Michael
+
+GUI may be attached to the character
+
+GUI popped up if needed when required. Maybe dynamic or static.
+
+Changing camera perspectives from exploration to combat, 
+close to distance in a 3rd person perspective
+
+The overall design will be simple to reduce displaying unnecessary 
+information in order to avoid cluttering up the screen.

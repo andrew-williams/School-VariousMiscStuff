@@ -1,0 +1,142 @@
+What we discussed about today! 2013 June 18
+
+Changing camera perspectives from exploration to combat, close to distance in a 3rd perspective. 
+
+	-GUIS if needed pops up when required (Maybe), dynamic or static.
+	-GUIS might be attached to character, you don't feel anything(lol)
+	-GUIS, kinds of information
+		- Balance in terms of energy 
+		- This can increase the cost for state machine
+		- Scale form GUIS ARE AMAZING!
+
+State Table - Most games have an Idle state and a walk state
+
+
+Types of items - Advanced Artifacts! (lol)
+	       - Swords that swing fast but are still great in many ways
+	       - Don't say magical enhancements, say nanobots or something
+	       - Poison is not combat, its part of the situation
+	       - Weapons with reach and balancing
+	       - Artifacts effect weapons(Maybe?)
+	       - Weighted inventory system to your apprentice(???)
+	       - Limited on items for character
+		JackyStuff()
+		{
+	       		- Transmuters amplify features(Maybe?)
+	       		- Conjurerers(???)
+			Hunter x Hunter?
+		}
+
+Town - Town has attack and defense status caused by artifacts
+
+		Weaponry
+			-
+
+Enemies and Characters - What?
+		       - Types of small enemies, the balancing and features
+
+Combat - Balance regenerate quickly
+       - Balance effects movement
+       - Artifacts effect combat?
+       - Augemented combat
+
+Enviornment - Puzzles in dunegons are futuristic and useless
+	    - Jumping platforms(???)
+	    - Limited Jump Height
+	    - Jump quests
+	    - Easter Eggs(???Ex. Old Stuff??? Deck of Yugioh Cards???)
+	    - Using cards for Spells or items???
+
+Game Ending - There is a final BOSS!~ (Setting)
+
+EXTRA - 
+	MEGAMAN
+	WHAT"S MAGIC!~
+	HUNTER X HUNTER?
+	Nanotech Swords!@!@#
+	Artifact helps you dodge bullets(Ricardo)
+	Don't be a super god!~
+	Small number of ARTIFACTS AND IS DEPENDENT ON TIME!~
+	Effects can stack but not for infinite(Limited number of artifacts)
+
+This job is hard listening to different converstaions
+
+
+_________________________________________________________________________________________
+Brought up by Ryuu
+Monsters and Victims
+	Whether or not weapon types effect balance
+		Ex. Blunt weapons cause aoe damage, and stumble for small enemies
+		Ex. Stabbing and piercing weapons takes more balance to do
+	Creatures consist of different breeds, archetypes and attributes
+		Ex. Mutants are the main enemies, Machinery and Humanoids
+			Ex.Mutated Rats, etc
+
+Creatures get stronger the deeper you go
+Creatures have varies, size, behavior and other features
+
+Small Creatures
+Slimes(Andrew)
+Rats and Goblins
+Fast and agile
+Low balance, easy to stumble and kill
+Blunt weapons are great againest these
+Numerous(Zerg)
+Low chance for shields, just weapons
+
+Medium Creatures
+Crawlers and Sunken (Resident Evil, Witcher, Aliens from AVP)
+Medium balance 
+Can be melee or ranged
+Reasonable speed or mobility
+Typical enemey you fight
+Shielded likely
+
+Large Creatures
+Golems and Orges(Generic)
+Lots of balance
+Slow in movement with long delay time
+Recovery speed of balance is slow
+Few in numbers, rare to counter
+Heavy hitters
+Can be part of puzzles
+
+Boss/Collus. Creatures
+Unique
+Extremely tough to fight
+One time deal
+Guardians of artifacts or something good
+Part of dunegons, usually at the end with an event or trigger
+Can't be killed without thinking
+
+Characters
+Main
+	19-21 Years old female
+	Confident and spirited
+	Likes to dress less(*Cough*Ryuu*Cough*)
+	Short or long braided hair, to symbolize adventure times
+	Carefully and cautious
+Townsfolks
+	Chief
+
+	Council
+
+	Guards
+
+	Working Class
+
+	Normal People
+
+	Apprentice
+		Follows you wherever you 
+		Hireable after first death. You start off with one but have to 					visit the guild again to hire one
+		After death you become the apprentice years later
+		The dungeons will be the same where you last left off from death
+		They don’t help in combat
+		Portable inventory system 
+		The apprentice appears at checkpointed areas in dungeons
+
+Puzzle dudes
+Misc
+	Dead and decomposed
+		Part of enviornment

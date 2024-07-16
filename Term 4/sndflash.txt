@@ -1,0 +1,15 @@
+private var mySound:Sound;
+
+filename = "default.mp3";
+mySound = new Sound(new URLRequest(filename));
+mySound.play(0.int.MAX_VALUE);
+mySoundChannel = mySound.play(0,int.MAX_VALUE);
+mySoundChannel.stop()
+mySound.close();
+
+VOLUME
+//store the old volume
+var sTransform:SoundTransform = mySoundChannel.soundTransform;
+sTransform.volume = 0.5;
+
+mySoundChannel.soundTransform = sTransform;
